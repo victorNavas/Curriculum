@@ -68,7 +68,7 @@ class Employment {
 }
 
 
-class Apps {
+class App {
     let name: String
     let url: String
     let company: String
