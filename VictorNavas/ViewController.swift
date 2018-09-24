@@ -41,13 +41,14 @@ class VictorNavasCurriculum: UIViewController {
         App("TWI (Training withing Industry)", url: "Internal app store", by: "Johnson & Johnson",
             description: "Digitally capture proof of TWI process confirmation checks in an auditable database along with any required corrective action taken, scan custom QR codes to display online content. The application was designed for enterprise use, for ease of use and be intuitive, and be validated to compliance standards. Angular web portal for admin"),
         App("LSU - Line Setup 3D", url: "Internal app store", by: "Johnson & Johnson",
-            description: "JnJ mobile internal app for 3D modeling ARKit, show to operators in manufacture lines how to operate machines showing instructions using the 3D model of machines, and steps with animations showing how to proceed."),
+            description: "3D modeling ARKit, show to operators in manufacture lines how to operate machines showing instructions using the 3D model of machines, and steps with animations showing how to proceed."),
     ]
     
     let employmentHistory = [mobileDeveloperAtJnJ, solutionArchitectPI, webDeveloperCiber, webDeveloperAtos]
     
     let mobileDeveloperAtJnJ = Employment("Mobile Senior Developer",
         in: "Limerick", by: "Johnson & Johnson", when: "March 2015 - Present", description: """
+        • Full stack developer, main lead on Swift stack, but developing API and backend, focused on microservice: NodeJS, Angular, php, java, Apigee...
         • Xcode, Networking: Alamofire, native URLSession. Autolayout, I love swift extensions, Realm, Core data, ReactSwift, Realm, Firebase.
         • Integrate with backend services (JSON, REST, etc.), Design Restful APIs.
         • Design and review code: Git strategy, use of branches and use of tags, Xtreme programming: pair programming.
