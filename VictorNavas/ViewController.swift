@@ -19,14 +19,17 @@ class VictorNavasCurriculum: UIViewController {
     ]
     
     let education = [
-        Education("ISTQB Foundation Certificate in Software Testing", in: "Limerick", by: "ISTQB", when: "May 2018",
+        Education("ISTQB Foundation Certificate in Software Testing",
+                  in: "Limerick", by: "ISTQB", when: "May 2018",
                   description: "ISTQB Foundation Certificate in Software Testing"),
         
         Education("Scrum Master", in: "Limerick", by: "Scrum Allianz", when: "Mar 2015"),
         
-        Education("Process Integration with SAP NetWeaver (PI 7.3)", in: "Madrid", by: "SAP", when: "Dec 2013"),
+        Education("Process Integration with SAP NetWeaver (PI 7.3)",
+                  in: "Madrid", by: "SAP", when: "Dec 2013"),
         
-        Education("Bachilor´s degree in Telecommunications Technologies Engineering", in: "Madrid", by: "UC3M", when: "Sep 2011",
+        Education("Bachilor´s degree in Telecommunications Technologies Engineering",
+                  in: "Madrid", by: "UC3M", when: "Sep 2011",
                   description: "Mathematical analysis (Matlab), circuit design, electronics (Maxplus), Optical Communications Systems, Data Network Protocols, Broadband Networks, Semiconductor Manufacturing, Wireless and Mobile Communications, Internetwork Security, and Digital Signal Processing.")
     ]
 
@@ -38,103 +41,26 @@ class VictorNavasCurriculum: UIViewController {
 
     let mobileDeveloper = [mobileDeveloperAtJnJ]
     
-    let mobileDeveloperAtJnJ = Employment("Mobile Senior Developer", in: "Limerick", by: "Johnson & Johnson", when: "March 2015 - Present",
-        description: """
-    • Xcode, Networking: Alamofire, native URLSession. Autolayout, I love swift extensions, Realm, Core data, ReactSwift, Realm, Firebase.
-    • Integrate with backend services (JSON, REST, etc.), Design Restful APIs.
-    • Design and review code: Git strategy, use of branches and use of tags, Xtreme programming: pair programming.
-    • Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
-    • Modularise code in components: Split your code base separating your codes by functionalities in different pods. Creation of Cocoa Pods for internal use, and contribute to the GitHub community.
-    • Architectural patterns: MVC, MVVM, Viper. Orchestrator, App Coordinator.
-    • UI: Deep knowledge of storyboards, create custom views programmatically.
-    • Unit test code, code coverage standard of over 90% in services.
-    • TDD and BDD, Creation of Cucumber (fork from XCTest-Gherkin) framework in swift to write automation UI Test Scenarios in Gherkin syntax.
-    • Define bug flow process within the company.
-    • Translation tool: developed a translation tool to facilitate localization for all the frontends (web, iOS, and Android) from a CMS.
-    • Android Studio: Kotlin
-    • Very interested in the reuse of business logic in components in common language cross-platform
-    """
-    )
+    let mobileDeveloperAtJnJ = Employment("Mobile Senior Developer",
+        in: "Limerick", by: "Johnson & Johnson", when: "March 2015 - Present", description: """
+        • Xcode, Networking: Alamofire, native URLSession. Autolayout, I love swift extensions, Realm, Core data, ReactSwift, Realm, Firebase.
+        • Integrate with backend services (JSON, REST, etc.), Design Restful APIs.
+        • Design and review code: Git strategy, use of branches and use of tags, Xtreme programming: pair programming.
+        • Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+        • Modularise code in components: Split your code base separating your codes by functionalities in different pods. Creation of Cocoa Pods for internal use, and contribute to the GitHub community.
+        • Architectural patterns: MVC, MVVM, Viper. Orchestrator, App Coordinator.
+        • UI: Deep knowledge of storyboards, create custom views programmatically.
+        • Unit test code, code coverage standard of over 90% in services.
+        • TDD and BDD, Creation of Cucumber (fork from XCTest-Gherkin) framework in swift to write automation UI Test Scenarios in Gherkin syntax.
+        • Define bug flow process within the company.
+        • Translation tool: developed a translation tool to facilitate localization for all the frontends (web, iOS, and Android) from a CMS.
+        • Android Studio: Kotlin
+        • Very interested in the reuse of business logic in components in common language cross-platform
+        """)
     
-    let solutionArchitectPI = Employment("Mobile Developer", in: "Limerick", by: "Johnson & Johnson", when: "March 2015 - Present",
-                                          description: """
-    • Payment gateway project: interfaces between banks and hotels using pin-pads and SAP developing adapter modules with Netweaver Developer Studio and java mappings. ABAP proxies and Z-Idocs implementation. Monitoring and configuring of messaging alerts.
-    """
-    )
+    let solutionArchitectPI = Employment("Mobile Developer",
+        in: "Limerick", by: "Johnson & Johnson", when: "March 2015 - Present", description: """
+        • Payment gateway project: interfaces between banks and hotels using pin-pads and SAP developing adapter modules with Netweaver Developer Studio and java mappings. ABAP proxies and Z-Idocs implementation. Monitoring and configuring of messaging alerts.
+        """)
     
-
-
-}
-
-struct Skill {
-    let skill: String
-    let level: Level
-    
-    init(_ skill: String, _ level: Level) {
-        self.skill = skill
-        self.level = level
-    }
-}
-
-struct Language {
-    let language: String
-    let level: Level
-    
-    init(_ language: String, _ level: Level) {
-        self.language = language
-        self.level = level
-    }
-}
-
-enum Level {
-    case Native
-    case Advance
-    case Expert
-}
-
-class Education {
-    let name: String
-    let location: String
-    let date: String
-    let company: String
-    let description: String?
-    
-    init(_ name: String, in location: String, by company: String, when date: String, description: String? = nil) {
-        self.name = name
-        self.location = location
-        self.company = company
-        self.date = date
-        self.description = description
-    }
-}
-
-class Employment {
-    let name: String
-    let location: String
-    let date: String
-    let company: String
-    let description: String?
-    
-    init(_ name: String, in location: String, by company: String, when date: String, description: String? = nil) {
-        self.name = name
-        self.location = location
-        self.company = company
-        self.date = date
-        self.description = description
-    }
-}
-
-
-class Apps {
-    let name: String
-    let url: String
-    let company: String
-    let description: String?
-    
-    init(_ name: String, url: String, by company: String, description: String? = nil) {
-        self.name = name
-        self.url = url
-        self.company = company
-        self.description = description
-    }
 }
