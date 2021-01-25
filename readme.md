@@ -120,27 +120,21 @@ Relevant Apps
 --------------------
 
 * **TOR (Time Out of Refrigeration)**
-Internal app store
-Johnson & Johnson
-App that helps operatioros during manufacturing to control the time out of refrigeration of vaccines using automatic scan of barcodes.
-
+    * Johnson & Johnson / Internal app store
+    * App that helps operatioros during manufacturing to control the time out of refrigeration of vaccines using automatic scan of barcodes.
 
 * **Care4Today**
-https://www.care4today.com
-Johnson & Johnson
-Health and wellness consumer app to track and notify users on medication requirements, appointments, etc. build from scratch using Android, IOS. Web portal created using Angular JS 2. Proxy created using node.js while the backend based in symfony.
+    * Johnson & Johnson / https://www.care4today.com
+    * Health and wellness consumer app to track and notify users on medication requirements, appointments, etc. build from scratch using Android, IOS. Web portal created using Angular JS 2. Proxy created using node.js while the backend based in symfony.
 
 * **Nicorette Stop Smoking**
-https://itunes.apple.com/gb/app/nicorette-stop-smoking/id1189131363?mt=8
-Johnson & Johnson
-Quit smoking app
+    * Johnson & Johnson / https://itunes.apple.com/gb/app/nicorette-stop-smoking/id1189131363?mt=8
+    * Quit smoking app
 
 * **TWI (Training withing Industry)**
-Internal app store
-Johnson & Johnson
-Digitally capture proof of TWI process confirmation checks in an auditable database along with any required corrective action taken, scan custom QR codes to display online content. The application was designed for enterprise use, for ease of use and be intuitive, and be validated to compliance standards. Angular web portal for admin
+    * Johnson & Johnson / Internal app store
+    * Digitally capture proof of TWI process confirmation checks in an auditable database along with any required corrective action taken, scan custom QR codes to display online content. The application was designed for enterprise use, for ease of use and be intuitive, and be validated to compliance standards. Angular web portal for admin
 
 * **LSU - Line Setup 3D**
-Internal app store
-Johnson & Johnson
-3D modeling ARKit, show to operators in manufacture lines how to operate machines showing instructions using the 3D model of machines, and steps with animations showing how to proceed.
+    * Johnson & Johnson / Internal app store
+    * 3D modeling ARKit, show to operators in manufacture lines how to operate machines showing instructions using the 3D model of machines, and steps with animations showing how to proceed.
