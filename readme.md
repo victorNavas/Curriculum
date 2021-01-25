@@ -24,22 +24,15 @@ Languages
 
 Skills
 ---------
-* Skills:
 
-     * Swift ★★★★★
-     * Git ★★★★★
-     * JAVA/Kotlin ★★★★☆
-     * HTML/CSS ★★★★☆
-     * UI/UX ★★★★☆
-     * Obj-C ★★★★☆
-     * AngularJS ★★★★☆
-     * PHP/Symfony ★★★★☆
-     * CI ★★★★☆
-     * Android ★★★★☆
-     * Javascript ★★★★☆
-     * Node JS ★★★★☆
-     * Jenkins ★★★★☆
-     * React Native ★★★★☆
+| Skill             | Skill            | Skill              |
+| ----------------- | ---------------- | ------------------ | 
+| Swift ★★★★★       | HTML/CSS ★★★★☆   | AngularJS ★★★★☆    |
+| Git ★★★★★         | UI/UX ★★★★☆      | PHP/Symfony ★★★★☆  |
+| JAVA/Kotlin ★★★★☆ | Obj-C ★★★★☆      | CI ★★★★☆           |
+| Android ★★★★☆     | Javascript ★★★★☆ | Node JS ★★★★☆      |
+| Jenkins ★★★★☆     | Typescript ★★★★☆ | React Native ★★★★☆ |
+
 
 Education
 ---------
@@ -67,6 +60,7 @@ and Digital Signal Processing.
 Date: Sep 2011
 Place: Madrid
 Organization: UC3M
+
 
 Experience
 ----------
@@ -119,6 +113,7 @@ Organization: Atos
 
 * Web Dynpro developer, creation of different web portal as reporting tools: commodities, foreign exchange and macroeconomics indexes, integration with Bloomberg usin PI middleware.
 * Implementation of SAP BW: migrating all the data from SAP to the new system, changing the source system off all reports from ECC to BW.
+
 
 
 Relevant Apps
