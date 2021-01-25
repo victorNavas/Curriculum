@@ -14,24 +14,18 @@ requirements gathering stage, taking them through the design process, and bringi
 public release. Capacity to think outside of the box and take initiatives to provide improvements 
 to product, projects and processes. Really passion to think on the overall solution rather than just code.
 
-Languages
----------
-* Human Languages:
-
-     * Spanish (Native) ★★★★★
-     * English ★★★★★
-     * Italian ★★★★☆
 
 Skills
 ---------
 
-| Skill             | Skill            | Skill              | Skill
-| ----------------- | ---------------- | ------------------ | ------------------ | 
-| Swift ★★★★★       | HTML/CSS ★★★★☆   | AngularJS ★★★★☆    | Rest API
-| Git ★★★★★         | UI/UX ★★★★☆      | PHP/Symfony ★★★★☆  | Swagger / Open API
-| JAVA/Kotlin ★★★★☆ | Obj-C ★★★★☆      | CI ★★★★☆           | DB Scheme
-| Android ★★★★☆     | Javascript ★★★★☆ | Node JS ★★★★☆      | API definition
-| Jenkins ★★★★☆     | Typescript ★★★★☆ | React Native ★★★★☆ |
+| Languages       | Programing         | Skills           | Tools               | Other
+| ----------------| ------------------ | ---------------- | ------------------- | ------------------
+| Spanish   ★★★★★ | Swift        ★★★★★ | HTML/CSS     ★★★★☆ | AngularJS   ★★★★☆ | Rest API
+| English   ★★★★★ | Javascript   ★★★★☆ | UI/UX        ★★★★☆ | PHP/Symfony ★★★★☆ | Swagger / Open API
+| Italian   ★★★★☆ | JAVA/Kotlin  ★★★★☆ | React Native ★★★★☆ | CI          ★★★★☆ | DB Scheme
+|                 | Android      ★★★★☆ | Node JS      ★★★★☆ | Jenkins     ★★★★☆ | API definition
+|                 | Typescript   ★★★★☆ | Obj-C        ★★★★☆ | Git         ★★★★★ |
+
 
 
 Education
