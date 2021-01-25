@@ -100,7 +100,7 @@ Relevant Apps
 
 * **TOR (Time Out of Refrigeration)**
     * Johnson & Johnson / Internal app store
-    * App that helps operatioros during manufacturing to control the time out of refrigeration of vaccines using automatic scan of barcodes.
+    * App that helps operators during manufacturing to control the time out of refrigeration of vaccines using automatic scan of barcodes.
 
 * **Care4Today**
     * Johnson & Johnson / https://www.care4today.com
