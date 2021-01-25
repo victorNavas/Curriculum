@@ -76,21 +76,21 @@ Date: March 2015 - Present
 Place: Limerick
 Organization: Johnson & Johnson
 
-• Full stack developer, main lead on Swift stack, but developing API and backend, focused on microservice: NodeJS, Angular, php, java, Apigee...
-• Xcode, Networking: Alamofire, native URLSession. Autolayout, I love swift extensions, Realm, Core data, ReactSwift, Realm, Firebase.
-• Integrate with backend services (JSON, REST, etc.), Design Restful APIs.
-• Design and review code: Git strategy, use of branches and use of tags, Xtreme programming: pair programming.
-• Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
-• Modularise code in components: Split your code base separating your codes by functionalities in different pods. Creation of Cocoa Pods for internal use, and contribute to the GitHub community.
-• Architectural patterns: MVC, MVVM, Viper. Orchestrator, App Coordinator.
-• UI / UX: Deep knowledge of storyboards, create custom views programmatically.
-• Unit test code, code coverage standard of over 90% in services.
-• TDD and BDD, Creation of Cucumber (fork from XCTest-Gherkin) framework in swift to write automation UI Test Scenarios in Gherkin syntax.
-• Define bug flow process within the company.
-• Translation tool: developed a translation tool to facilitate localization for all the frontends (web, iOS, and Android) from a CMS.
-• Android Studio: Kotlin
-• Very interested in the reuse of business logic in components in common language cross-platform
-• UI/UX Prototiping with Sketch: High level of detail, involved on design phase.
+* Full stack developer, main lead on Swift stack, but developing API and backend, focused on microservice: NodeJS, Angular, php, java, Apigee...
+* Xcode, Networking: Alamofire, native URLSession. Autolayout, I love swift extensions, Realm, Core data, ReactSwift, Realm, Firebase.
+* Integrate with backend services (JSON, REST, etc.), Design Restful APIs.
+* Design and review code: Git strategy, use of branches and use of tags, Xtreme programming: pair programming.
+* Continuously discover, evaluate, and implement new technologies to maximize development efficiency.
+* Modularise code in components: Split your code base separating your codes by functionalities in different pods. Creation of Cocoa Pods for internal use, and contribute to the GitHub community.
+* Architectural patterns: MVC, MVVM, Viper. Orchestrator, App Coordinator.
+* UI / UX: Deep knowledge of storyboards, create custom views programmatically.
+* Unit test code, code coverage standard of over 90% in services.
+* TDD and BDD, Creation of Cucumber (fork from XCTest-Gherkin) framework in swift to write automation UI Test Scenarios in Gherkin syntax.
+* Define bug flow process within the company.
+* Translation tool: developed a translation tool to facilitate localization for all the frontends (web, iOS, and Android) from a CMS.
+* Android Studio: Kotlin
+* Very interested in the reuse of business logic in components in common language cross-platform
+* UI/UX Prototiping with Sketch: High level of detail, involved on design phase.
 
 
 **Integration Architect**
@@ -98,8 +98,8 @@ Date: Nov 2014 - Feb 2015
 Place: Barcelona
 Organization: Indra Freelance
 
-• Payment gateway project: API between banks and hotels using pin-pads and SAP developing adapter modules with Netweaver Developer Studio and java mappings.
-• Monitoring and configuring of messaging alerts, ABAP proxies and custom Idocs implementation.
+* Payment gateway project: API between banks and hotels using pin-pads and SAP developing adapter modules with Netweaver Developer Studio and java mappings.
+* Monitoring and configuring of messaging alerts, ABAP proxies and custom Idocs implementation.
 
 
 **Web Developer / Integration Architect**
@@ -107,18 +107,18 @@ Date: Jun 2012 - Oct 2014
 Place: Madrid
 Organization: Ciber
 
-• Design of functional (for business) and technical specifications of API: wsdl
-• Gathering of business requirements, design and concept of the interfaces implementation.
-• Maintenance and review of SAP PI Interfaces based in version 7.1.
-• Web Dynpro applications: ALV, function modules, object oriented, bapis
+* Design of functional (for business) and technical specifications of API: wsdl
+* Gathering of business requirements, design and concept of the interfaces implementation.
+* Maintenance and review of SAP PI Interfaces based in version 7.1.
+* Web Dynpro applications: ALV, function modules, object oriented, bapis
 
 **Junior Developer**
 Date: Oct 2008 - Jun 2012
 Place: Madrid
 Organization: Atos
 
-• Web Dynpro developer, creation of different web portal as reporting tools: commodities, foreign exchange and macroeconomics indexes, integration with Bloomberg usin PI middleware.
-• Implementation of SAP BW: migrating all the data from SAP to the new system, changing the source system off all reports from ECC to BW.
+* Web Dynpro developer, creation of different web portal as reporting tools: commodities, foreign exchange and macroeconomics indexes, integration with Bloomberg usin PI middleware.
+* Implementation of SAP BW: migrating all the data from SAP to the new system, changing the source system off all reports from ECC to BW.
 
 
 Relevant Apps
