@@ -7,13 +7,7 @@ Victor Navas
 
 Summary
 ---------
-I’m a full stack software developer with 10+ years experience, primarily focused on mobile solutions, 
-web based and API’s. I was fortunate to be surrounded by a team of talented developers and 
-exposed to the Full Stack and Agile project management. Beginning projects at the initial 
-requirements gathering stage, taking them through the design process, and bringing them to 
-public release. Capacity to think outside of the box and take initiatives to provide improvements 
-to product, projects and processes. Really passion to think on the overall solution rather than just code.
-
+I’m a full-stack software developer with 10+ years of experience, primarily focused on mobile solutions, web-based and API’s. I was fortunate to be surrounded by a team of talented developers and exposed to the Full Stack and Agile project management. Beginning projects at the initial requirements gathering stage, taking them through the design process, and bringing them to public release. Capacity to think outside of the box and take initiatives to provide improvements to products, projects, and processes. Really passionate to think about the overall solution rather than just code.
 
 Skills
 ---------
@@ -40,7 +34,7 @@ Education
 * **Process Integration with SAP NetWeaver (PI 7.3)**
 🕓: Dec 2013, 🌎: Madrid, 🏢: SAP
 
-* **Bachilor´s degree in Telecommunications Technologies Engineering**
+* **Bachelor’s degree in Telecommunications Technologies Engineering**
 🕓: Sep 2011, 🌎: Madrid, 🏢: UC3M
 Description: Mathematical analysis (Matlab), circuit design, electronics (Maxplus), 
 Optical Communications Systems, Data Network Protocols, Broadband Networks, 
@@ -54,7 +48,7 @@ Experience
 **Full Stack Senior Developer**
 🕓: March 2015 - Present, 🌎: Limerick, 🏢: Johnson & Johnson
 
-* Full stack developer, main lead on Swift stack, but developing API and backend, focused on microservice: NodeJS, Angular, php, java, Apigee...
+* Full-stack developer, main lead on Swift stack, but developing API and backend, focused on microservice: NodeJS, Angular, php, java, Apigee...
 * Xcode, Networking: Alamofire, native URLSession. Autolayout, I love swift extensions, Realm, Core data, ReactSwift, Realm, Firebase.
 * Integrate with backend services (JSON, REST, etc.), 
 * Design Restful APIs.
@@ -63,13 +57,14 @@ Experience
 * Modularise code in components: Split your code base separating your codes by functionalities in different pods. Creation of Cocoa Pods for internal use, and contribute to the GitHub community.
 * Architectural patterns: MVC, MVVM, Viper. Orchestrator, App Coordinator.
 * UI / UX: Deep knowledge of storyboards, create custom views programmatically.
-* Unit test code, code coverage standard of over 90% in services. Due to the nature of business (Healthcare) I'm always challenged to deliver code with high level of unit test code coverage
+* Unit test code, code coverage standard of over 90% in services. Due to the nature of business (Healthcare) I'm always challenged to deliver code with a high level of unit test code coverage
 * TDD and BDD, Creation of Cucumber (fork from XCTest-Gherkin) framework in swift to write automation UI Test Scenarios in Gherkin syntax.
 * Define bug flow process within the company.
 * Translation tool: developed a translation tool to facilitate localization for all the frontends (web, iOS, and Android) from a CMS.
 * Android Studio: Kotlin
 * Very interested in the reuse of business logic in components in common language cross-platform
-* UI/UX Prototiping with Sketch: High level of detail, involved on design phase.
+* UI/UX Prototyping with Sketch: High level of detail, involved * UI/UX Prototyping with Sketch: High level of detail, involved  in the design.
+ phase.
 
 
 **Integration Architect**
@@ -84,13 +79,13 @@ Experience
 
 * Design of functional (for business) and technical specifications of API: wsdl
 * Gathering of business requirements, design and concept of the interfaces implementation.
-* Maintenance and review of SAP PI Interfaces based in version 7.1.
-* Web Dynpro applications: ALV, function modules, object oriented, bapis
+* Maintenance and review of SAP PI Interfaces based on version 7.1.
+* Web Dynpro applications: ALV, function modules, object-oriented, bapis
 
 **Junior Developer**
 🕓: Oct 2008 - Jun 2012, 🌎: Madrid, 🏢: Atos
 
-* Web Dynpro developer, ABAP OO, creation of different web portal as reporting tools: commodities, foreign exchange and macroeconomics indexes, integration with Bloomberg usin PI middleware. Improve SAP ERP systems
+* Web Dynpro developer, ABAP OO, creation of different web portal as reporting tools: commodities, foreign exchange and macroeconomics indexes, integration with Bloomberg using PI middleware. Improve SAP ERP systems
 * Implementation of SAP BW: migrating all the data from SAP to the new system, changing the source system off all reports from ECC to BW.
 
 
@@ -100,7 +95,7 @@ Relevant Apps
 
 * **TOR (Time Out of Refrigeration)**
     * Johnson & Johnson / Internal app store
-    * App that helps operators during manufacturing to control the time out of refrigeration of vaccines using automatic scan of barcodes.
+    * An app that helps operators during manufacturing to control the time out of refrigeration of vaccines using an automatic scan of barcodes.
 
 * **Care4Today**
     * Johnson & Johnson / https://www.care4today.com
@@ -116,4 +111,4 @@ Relevant Apps
 
 * **LSU - Line Setup 3D**
     * Johnson & Johnson / Internal app store
-    * 3D modeling ARKit, show to operators in manufacture lines how to operate machines showing instructions using the 3D model of machines, and steps with animations showing how to proceed.
+    * 3D modeling ARKit, shows operators in manufacture lines how to operate machines showing instructions using the 3D model of machines, and steps with animations showing how to proceed.
