@@ -1,10 +1,10 @@
 Victor Navas
 ============
 
--------------------     ----------------------------
-mail                            ✉️ navas.v7@gmail.com
-phone                           ☏ +353 083 473 97 88
--------------------     ----------------------------
+----------------------------
+* ✉️ navas.v7@gmail.com
+* ☏ +353 083 473 97 88
+----------------------------
 
 Summary
 ---------
@@ -44,22 +44,22 @@ Skills
 Education
 ---------
 
-**ISTQB Foundation Certificate in Software Testing**
+* **ISTQB Foundation Certificate in Software Testing**
 Date: May 2018
 Place: Limerick
 Organization: ISTQB
 
-**Scrum Master**
+* **Scrum Master**
 Date: Mar 2015
 Place: Limerick
 Organization: Scrum Allianz
 
-**Process Integration with SAP NetWeaver (PI 7.3)**
+* **Process Integration with SAP NetWeaver (PI 7.3)**
 Date: Dec 2013
 Place: Madrid
 Organization: SAP
 
-**Bachilor´s degree in Telecommunications Technologies Engineering**
+* **Bachilor´s degree in Telecommunications Technologies Engineering**
 Description: Mathematical analysis (Matlab), circuit design, electronics (Maxplus), 
 Optical Communications Systems, Data Network Protocols, Broadband Networks, 
 Semiconductor Manufacturing, Wireless and Mobile Communications, Internetwork Security, 
@@ -124,28 +124,28 @@ Organization: Atos
 Relevant Apps
 --------------------
 
-**TOR (Time Out of Refrigeration)**
+* **TOR (Time Out of Refrigeration)**
 Internal app store
 Johnson & Johnson
 App that helps operatioros during manufacturing to control the time out of refrigeration of vaccines using automatic scan of barcodes.
 
 
-**Care4Today**
+* **Care4Today**
 https://www.care4today.com
 Johnson & Johnson
 Health and wellness consumer app to track and notify users on medication requirements, appointments, etc. build from scratch using Android, IOS. Web portal created using Angular JS 2. Proxy created using node.js while the backend based in symfony.
 
-**Nicorette Stop Smoking**
+* **Nicorette Stop Smoking**
 https://itunes.apple.com/gb/app/nicorette-stop-smoking/id1189131363?mt=8
 Johnson & Johnson
 Quit smoking app
 
-**TWI (Training withing Industry)**
+* **TWI (Training withing Industry)**
 Internal app store
 Johnson & Johnson
 Digitally capture proof of TWI process confirmation checks in an auditable database along with any required corrective action taken, scan custom QR codes to display online content. The application was designed for enterprise use, for ease of use and be intuitive, and be validated to compliance standards. Angular web portal for admin
 
-**LSU - Line Setup 3D**
+* **LSU - Line Setup 3D**
 Internal app store
 Johnson & Johnson
 3D modeling ARKit, show to operators in manufacture lines how to operate machines showing instructions using the 3D model of machines, and steps with animations showing how to proceed.
