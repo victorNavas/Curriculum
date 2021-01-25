@@ -18,28 +18,28 @@ Languages
 ---------
 * Human Languages:
 
-     * Spanish (Native)
-     * English (Advance)
-     * Italian (Advance)
+     * Spanish (Native) ★★★★★
+     * English ★★★★★
+     * Italian ★★★★☆
 
 Skills
 ---------
 * Skills:
 
-     * Swift (Expert)
-     * Git (Expert)
-     * JAVA/Kotlin (Expert)
-     * HTML/CSS (Advance)
-     * UI/UX (Advance)
-     * Obj-C (Advance)
-     * AngularJS (Advance)
-     * PHP/Symfony (Advance)
-     * CI (Advance)
-     * Android (Advance)
-     * Javascript (Advance)
-     * Node JS (Advance)
-     * Jenkins (Advance)
-     * React Native (Advance)
+     * Swift ★★★★★
+     * Git ★★★★★
+     * JAVA/Kotlin ★★★★☆
+     * HTML/CSS ★★★★☆
+     * UI/UX ★★★★☆
+     * Obj-C ★★★★☆
+     * AngularJS ★★★★☆
+     * PHP/Symfony ★★★★☆
+     * CI ★★★★☆
+     * Android ★★★★☆
+     * Javascript ★★★★☆
+     * Node JS ★★★★☆
+     * Jenkins ★★★★☆
+     * React Native ★★★★☆
 
 Education
 ---------
