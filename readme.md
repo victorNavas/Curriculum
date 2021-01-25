@@ -20,10 +20,10 @@ Skills
 
 | Languages       | Programing         | Skills           | Tools               | Other
 | ----------------| ------------------ | ---------------- | ------------------- | ------------------
-| Spanish   ★★★★★ | Swift        ★★★★★ | HTML/CSS     ★★★★☆ | AngularJS   ★★★★☆ | Rest API
-| English   ★★★★★ | Javascript   ★★★★☆ | UI/UX        ★★★★☆ | PHP/Symfony ★★★★☆ | Swagger / Open API
-| Italian   ★★★★☆ | JAVA/Kotlin  ★★★★☆ | React Native ★★★★☆ | CI          ★★★★☆ | DB Scheme
-|                 | Android      ★★★★☆ | Node JS      ★★★★☆ | Jenkins     ★★★★☆ | API definition
+| Spanish   ★★★★★ | Swift        ★★★★★ | HTML/CSS     ★★★★☆ | AngularJS   ★★★★☆ | Rest API  ★★★★★
+| English   ★★★★★ | Javascript   ★★★★☆ | UI/UX        ★★★★☆ | PHP/Symfony ★★★★☆ | Swagger / Open API ★★★★★
+| Italian   ★★★★☆ | JAVA/Kotlin  ★★★★☆ | React Native ★★★★☆ | CI          ★★★★☆ | DB Scheme ★★★★★
+|                 | Android      ★★★★☆ | Node JS      ★★★★☆ | Jenkins     ★★★★☆ | API definition ★★★★★
 |                 | Typescript   ★★★★☆ | Obj-C        ★★★★☆ | Git         ★★★★★ |
 
 
